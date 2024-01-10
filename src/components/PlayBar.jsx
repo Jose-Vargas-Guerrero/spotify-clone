@@ -5,6 +5,7 @@ import useMusicStore from '../store/useMusicStore';
 
 
 
+import '/src/index.css'
 function PlayBar() {
   const {image, name, artist, track} = useMusicStore()
   return (
@@ -18,7 +19,7 @@ function PlayBar() {
         <p>{artist}</p>
         </div>
       </div>
-      <AuidioPlayer className=' bg-[#282828] text-white'
+      <AuidioPlayer className='playbar bg-[#282828] text-white'
       autoPlay
       src={track}
       />

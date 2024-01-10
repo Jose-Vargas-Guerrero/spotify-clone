@@ -4,4 +4,9 @@
 
 body{
     background-color: black;
+    color: #ffffff !important;
+}
+
+.playbar{
+    color: #ffffff !important;
 }
