@@ -15,7 +15,7 @@ const listOfTracks = [
         image: 'https://i.scdn.co/image/ab67616d00001e028863bc11d2aa12b54f5aeb36',
         name: 'Save your tears',
         artist: 'The Weeknd',
-         track: 'https://raw.githubusercontent.com/Jose-Vargas-Guerrero/spotifyclonesongs/main/tracks/saveYourTears.mp3',
+         track:'https://raw.githubusercontent.com/Jose-Vargas-Guerrero/spotifyclonesongs/main/tracks/saveYourTears.mp3',
     },
     {
         image: 'https://i.scdn.co/image/ab67616d0000b273e19b1b51cdd35051e17cf6dc',
